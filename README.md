@@ -8,8 +8,12 @@
 ### Решение
 
 
-https://github.com/Koksenka/smon-homeworks/blob/master/1.png
-https://github.com/Koksenka/smon-homeworks/blob/master/2.png
+![alt text]https://github.com/Koksenka/smon-homeworks/blob/master/1.png
+![alt text]https://github.com/Koksenka/smon-homeworks/blob/master/2.png
+
+---
+
+
 apt update
 apt upgrade
 
@@ -34,10 +38,10 @@ systemctl enable zabbix-server zabbix-agent apache2
 ### Установите Zabbix Agent на два хоста.
 
 ### Решение
-https://github.com/Koksenka/smon-homeworks/blob/master/3.png
-https://github.com/Koksenka/smon-homeworks/blob/master/4.png
-https://github.com/Koksenka/smon-homeworks/blob/master/5.png
-
+![alt text]https://github.com/Koksenka/smon-homeworks/blob/master/3.png
+![alt text]https://github.com/Koksenka/smon-homeworks/blob/master/4.png
+![alt text]https://github.com/Koksenka/smon-homeworks/blob/master/5.png
+---
 apt update
 apt upgrade
 
